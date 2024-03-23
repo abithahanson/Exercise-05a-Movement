@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220
 
-The first Unity 3D exercise, a simple first-person-controlled character.
+The first Unity 3D exercise, is a simple first-person-controlled character.
 
 ## Implementation
 
@@ -15,4 +15,4 @@ None
 None
 
 ## Created by 
- 
+ Abigail Hanson
